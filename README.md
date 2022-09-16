@@ -2,7 +2,7 @@
 ## Online-Study-Course
 I have created online study website, with the help of which students can study from home and enhance their skill and can get good paying jobs in popular companies.
 
-My website link: 
+This is my final FRT Azure link: https://delightful-cliff-0b52c6710.1.azurestaticapps.net
 
 ## Home Page
 ![S1](https://user-images.githubusercontent.com/35297480/190620673-dff26362-d8dc-4518-9015-e0b1ad7dfe87.png)
